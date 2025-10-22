@@ -1,6 +1,6 @@
 # Jsierra16
 
-**`Multimedia Engineer | Indie Game Developer`**
+**`Multimedia Engineer | Junior Game Developer`**
 
 Hey! I’m **Juan Esteban Sierra**, though I’m also known as **Jsierra**.
 
