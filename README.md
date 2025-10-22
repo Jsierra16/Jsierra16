@@ -18,7 +18,7 @@ I love experimenting with **code, art, and design** to build games that feel ali
 Every project I make is another step in my journey to **learn, grow, and explore new ways to tell stories through play**.  
 I believe games are one of the most expressive forms of art — a blend of logic, emotion, and creativity.  
 
-If you enjoy **creative, personal, and heartfelt indie games**, welcome — you’ll feel right at home here. 🌻
+If you enjoy **creative, personal, and heartfelt indie games**, welcome — you’ll feel right at home here. 
 
 ---
 
