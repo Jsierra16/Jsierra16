@@ -38,7 +38,7 @@ If you enjoy **creative, personal, and heartfelt indie games**, welcome â€” youâ
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="Blender logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/DaVinci_Resolve_17_logo.svg" height="40" alt="DaVinci Resolve logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/DaVinci_Resolve_Studio_Logo.svg" height="40" alt="DaVinci Resolve logo"/>
 </p>
 
 ### Web & Multimedia
