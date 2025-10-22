@@ -27,7 +27,6 @@ If you enjoy **creative, personal, and heartfelt indie games**, welcome â€” youâ
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="Blender logo"/>
 </p>
 
 ### Web & Programming
@@ -43,8 +42,13 @@ If you enjoy **creative, personal, and heartfelt indie games**, welcome â€” youâ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="After Effects logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="40" alt="Premiere Pro logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="40" alt="Maya logo"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/DaVinci_Resolve_Studio_Logo.svg" height="40" alt="DaVinci Resolve logo"/>
+</p>
+
+### 3D and Animation
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="40" alt="Maya logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="Blender logo"/>
 </p>
 
 ---
