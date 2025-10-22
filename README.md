@@ -12,10 +12,10 @@ If you enjoy **creative, personal, and heartfelt indie games**, welcome â€” youâ
 ---
 
 <p align="left">
-  <a href="https://jsierra.itch.io/">
+  <a href="https://jsierra07.itch.io/">
     <img alt="itch.io profile" title="Play my games on Itch.io" src="https://custom-icon-badges.demolab.com/badge/-Itch.io-%23fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white"/>
   </a>
-  <a href="[https://github.com/jsierra16](https://jsierra07.itch.io)">
+  <a href="[https://github.com/jsierra16]">
     <img alt="github" title="See my code on GitHub" src="https://custom-icon-badges.demolab.com/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/juanestebansierra/">
