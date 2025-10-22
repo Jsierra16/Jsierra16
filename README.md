@@ -25,6 +25,33 @@ If you enjoy **creative, personal, and heartfelt indie games**, welcome — you�
 
 ---
 
+## Skills
+
+### 🎮 Game Development
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo"/>
+</p>
+
+### Art & Design
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="Blender logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/DaVinci_Resolve_17_logo.svg" height="40" alt="DaVinci Resolve logo"/>
+</p>
+
+### Web & Multimedia
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="After Effects logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="40" alt="Premiere Pro logo"/>
+</p>
+
+---
+
 <p align="left">
   <a href="https://jsierra07.itch.io/">
     <img alt="itch.io profile" title="Play my games on Itch.io" src="https://custom-icon-badges.demolab.com/badge/-Itch.io-%23fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white"/>
