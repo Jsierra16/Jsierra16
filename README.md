@@ -4,30 +4,24 @@
 
 ---
 
-## Intro
-
 Hey! I’m **Juan Esteban Sierra**, though I’m also known as **Jsierra**.  
 
 I’m a multimedia engineer and indie developer passionate about **turning ideas into interactive worlds**.  
-I love experimenting with **code, art, and design** to build games that feel alive — whether that’s a quick, punchy **2D platformer** or a fully realized **3D adventure**.
-
----
-
-## About Me
+I love experimenting with **code, art, and design** to create games that feel alive — whether that’s a quick, punchy **2D platformer** or a fully realized **3D experience**.
 
 Every project I make is another step in my journey to **learn, grow, and explore new ways to tell stories through play**.  
 I believe games are one of the most expressive forms of art — a blend of logic, emotion, and creativity.  
 
-If you enjoy **creative, personal, and heartfelt indie games**, welcome — you’ll feel right at home here. 
+If you enjoy **creative, personal, and heartfelt indie games**, welcome — you’ll feel right at home here.
 
 ---
 
-## My Projects
+## Projects
 
-**Eco Buddy** — Help a small recycling hero clean up the town as fast as possible!  
-**Graveyard Shift** — Test your endurance in a soldier’s zombie survival simulation.  
-**Un Taxi en Apuros** — Deliver your package before time runs out on a mysterious island.  
-**Sierra’s Sonic Trivia** — A lighthearted trivia game for fans of Sonic the Hedgehog.  
+[**Eco Buddy**](https://jsierra07.itch.io/eco-buddy) — Help a small recycling hero clean up the town as fast as possible.  
+[**Graveyard Shift**](https://jsierra07.itch.io/graveyard-shift) — Test your endurance in a soldier’s zombie survival simulation.  
+[**Un Taxi en Apuros**](https://jsierra07.itch.io/un-taxi-en-apuros) — Deliver your package before time runs out on a mysterious island.  
+[**Sierra’s Sonic Trivia**](https://jsierra07.itch.io/sierras-sonic-trivia) — A lighthearted trivia game for fans of Sonic the Hedgehog.
 
 ---
 
